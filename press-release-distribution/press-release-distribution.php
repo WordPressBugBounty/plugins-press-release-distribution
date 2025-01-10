@@ -3,11 +3,11 @@
 /**
 
 Plugin Name: Press Release Distribution 
-Plugin URI: https://howtocreateapressrelease.com/press-release-distribution-wordpress-plugin/ 
+Plugin URI: https://prwirepro.com/press-release-distribution-wordpress-plugin/ 
 Description: Creates a new section for press releases within your wordpress dashboard right next to your post and pages section. Publish your press releases from their own section and keep them separate from all of your post and pages. 
 Version: 1.1.0
-Author: How To Create A Press Release 
-Author URI: https://howtocreateapressrelease.com 
+Author: PR Wire Pro 
+Author URI: https://prwirepro.com
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
