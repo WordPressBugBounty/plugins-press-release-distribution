@@ -1,7 +1,7 @@
 === Press Release Distribution ===
 
 Contributors: lightimagemedia
-Donate link: https://prwirepro.com
+Donate link: https://wireaccess.net
 Tags:  advertising, press release, seo
 Requires at least: 3.4
 Tested up to: 6.7.1
@@ -9,14 +9,14 @@ Stable tag: 1.1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Creates a new section for press releases within your wordpress dashboard, right next to your post and pages section.
+Creates a new section for press releases within your wordpress dashboard
 
 == Description ==
 Creates a new section for press releases within your wordpress dashboard, right next to your post and pages section. Publish your press releases from their own section and keep them separate from all of your post and pages. 
 
 Important Installation note: Please make sure to re save your permalink settings after you have activated the plugin or your posts will not show up publicly on your site, only privately. To resave your permalinks settings, please go to to your wordpress settings menu after you have activated the plugin and then go to --» permalinks --» and then please re-click the Save Changes button one more time to update the permalink settings and then the plugin is now setup successfully.
 
-Please visit [prwirepro.com](https://prwirepro.com "prwirepro.com") to learn more about the plugin. For any questions about the plugin or help with the plugin please contact our support team at anytime through our website - Contact [PR Wire Pro Support](https://prwirepro.com "PR Wire Pro Support") Visit our website to find the best [Press Release Distribution Services](https://prwirepro.com "Press Release Distribution Services") or download our other plugin available on wordpress.org [press release distribution plugin](https://wordpress.org/plugins/press-release-distribution/ "press release distribution plugin"). For press release writing tips and help please visit [https://howtocreateapressrelease.com](https://howtocreateapressrelease.com "https://howtocreateapressrelease.com"). 
+Please visit [https://pressreleasereviews.com](https://pressreleasereviews.com "https://pressreleasereviews.com") to learn more about the plugin. For any questions about the plugin or help with the plugin please contact our support team at anytime through our website http://pressreleasereviews.com -  Visit our website to find the best [Press Release Distribution Services](https://pressreleasereviews.com "Press Release Distribution Services") or download our other plugin available on wordpress.org [press release distribution plugin](https://wordpress.org/plugins/press-release-distribution/ "press release distribution plugin"). For press release writing tips and help please visit [https://howtocreateapressrelease.com](https://howtocreateapressrelease.com "https://howtocreateapressrelease.com"). 
 
 
 == Installation ==
