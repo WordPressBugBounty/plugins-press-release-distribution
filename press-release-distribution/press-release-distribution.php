@@ -3,11 +3,11 @@
 /**
 
 Plugin Name: Press Release Distribution 
-Plugin URI: https://wireaccess.net
+Plugin URI: https://prwirepro.com
 Description: Creates a new section for press releases within your wordpress dashboard right next to your post and pages section. Publish your press releases from their own section and keep them separate from all of your post and pages. 
 Version: 1.1.0
-Author: Wire Access Distribution
-Author URI: https://wireaccess.net
+Author: PR Wire Pro
+Author URI: https://prwirepro.com
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
